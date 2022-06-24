@@ -1,0 +1,47 @@
+
+#form {
+    border: none;
+    width: 100%;
+    padding: 40px;
+
+    height: auto;
+    left: 50%;
+  }
+  #form h1,h6{
+      color: white;
+  
+  }
+  label{
+      color: white;
+  }
+  
+  .frosted-glass {
+    position: relative;
+    background: inherit;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    margin: 2vw;
+    margin-left: 5vw;
+    box-shadow: 0 0 2em rgb(0, 0, 0, 0.3);
+    border-radius: 2.5vw;
+    height: 28vw;
+    width: 30vw;
+  
+  
+  }
+  
+  .frosted-glass::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    box-shadow: inset 0 0 188em rgba(255, 255, 255, .5);
+    filter: blur(0.651vw);
+    margin: - 1.30208vw;
+  }
+  

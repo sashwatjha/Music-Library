@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	background: linear-gradient(120deg, #3498db, #8e44ad, #ee9032, #f16d52, #ec4a77, #a063aa, #7963aa, #4b6eb5, #109aaf, #07b89f, #6bb97f);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 150%;
+	animation: motion 3s ease-in-out infinite;
+}
+

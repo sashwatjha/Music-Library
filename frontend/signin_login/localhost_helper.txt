@@ -1,0 +1,11 @@
+To allow the transfer of data from frontend to MongoDb
+always set the:
+    app.js->origin == frontend-serve port number
+
+For the project purpose:
+    app.js->origin:'http://localhost:55101'
+    frontend port number = 55101 i.e ng serve --port 55101
+
+and for default purpose:
+    app.js->origin:'http://localhost:4200'
+    frontend port number = 4200 i.e ng serve
