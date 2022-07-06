@@ -1,7 +1,7 @@
 # Music-Library
 
-• Build an Application to search for music tracks and add them to a playlist/favourite list.
-• Create a Dashboard view with following sections Favorite Playlist, Recommendations for a playlist.
+• Built an Application to search for music tracks and add them to a favourite list.
+• Created a Dashboard view with following sections Favorite Playlist, Recommendations for a playlist.
 • Data can be fetched from https://www.last.fm/api
 • The Services are registered with Eureka Service Discovery server.
 
