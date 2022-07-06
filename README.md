@@ -12,3 +12,5 @@
 4. Testing : JUnit
 5. Container : Docker
 
+![alt text](https://github.com/sashwatjha/Music-Library/blob/master/Screenshot.png?raw=true)
+
